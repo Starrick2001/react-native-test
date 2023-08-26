@@ -13,7 +13,7 @@ npx create-expo-app -e with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 
-
+## How to start
 ```sh
-npx start --tunnel
+npx expo start --tunnel
 ```
