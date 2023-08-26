@@ -15,6 +15,5 @@ npx create-expo-app -e with-router
 
 
 ```sh
-npm i -g expo-cli
-expo-cli start --tunnel
+npx start --tunnel
 ```
